@@ -1,4 +1,4 @@
-package fm.leetcode.addtwonumbers;
+package fm.leetcode.problem_2;
 
 /**
  * Class from leetcode

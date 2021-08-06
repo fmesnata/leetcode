@@ -1,4 +1,4 @@
-package fm.leetcode.addtwonumbers;
+package fm.leetcode.problem_2;
 
 public class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {

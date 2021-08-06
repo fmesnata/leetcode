@@ -1,4 +1,4 @@
-package fm.leetcode.longestsubstring;
+package fm.leetcode.problem_3;
 
 import org.junit.jupiter.api.Test;
 

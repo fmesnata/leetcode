@@ -1,4 +1,4 @@
-package fm.leetcode.addtwonumbers;
+package fm.leetcode.problem_2;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
